@@ -1,0 +1,22 @@
+{
+  "name": "contador-de-clics",
+  "version": "1.0.0",
+  "description": "Aplicacion para contar clics adelanta, atras, y resetear",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch src/sass:src/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenDevelopez/contador-de-clics.git"
+  },
+  "author": "Jennifer Lopez Montero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenDevelopez/contador-de-clics/issues"
+  },
+  "homepage": "https://github.com/jenDevelopez/contador-de-clics#readme",
+  "devDependencies": {
+    "sass": "^1.68.0"
+  }
+}
